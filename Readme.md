@@ -1,11 +1,11 @@
 
-# Configuration Script – DV_PK_0001 - Rev. A
+# Parsing + Configuration Script – DV_PK_0001 - Rev. A
 
-This **Configuration** script is designed for the **DV_PK_0001** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Parsing + Configuration** script is designed for the **DV_PK_0001** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Configuration
+- **Type**: Parsing + Configuration
 
 ## ⚙️ Description
 
@@ -27,13 +27,13 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 ---
 
-# Script de Configuration – DV_PK_0001 Rev. A
+# Script de Parsing + Configuration – DV_PK_0001 Rev. A
 
-Este script de **Configuration** está diseñado para el modelo **DV_PK_0001** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Parsing + Configuration** está diseñado para el modelo **DV_PK_0001** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Configuration
+- **Tipo**: Parsing + Configuration
 
 ## ⚙️ Descripción
 
